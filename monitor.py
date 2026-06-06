@@ -4,8 +4,8 @@ import json
 from datetime import datetime
 
 # --- Configuration ---
-WEBHOOK_URL = "https://discord.com/api/webhooks/1455971889154359479/vXysaGSgBGfxO3II7ixwPvQIfY8HqJe7f9luNHnMHbvvgrX4nLVo1sCWyYzrJ8soTuZY"  # Get this from your Discord Channel Settings -> Integrations -> Webhooks
-TARGET_URL = "https://celticlogisticvtc.co.uk/"         # Replace with the website/server URL you want to monitor
+WEBHOOK_URL = ""  # Get this from your Discord Channel Settings -> Integrations -> Webhooks
+TARGET_URL = "/"         # Replace with the website/server URL you want to monitor
 CHECK_INTERVAL_SECONDS = 60                   # How often to check the status (e.g., every 60 seconds)
 # ---------------------
 
